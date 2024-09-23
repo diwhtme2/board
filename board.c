@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 void star() {
     int rank;
     
@@ -33,6 +34,7 @@ void chess() {
             else
                 printf(".  ");
         }
+        
         printf("\n");
     }
 }
